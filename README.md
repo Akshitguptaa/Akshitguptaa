@@ -17,7 +17,7 @@
  🏦 Hi, I'm **AKSHIT GUPTA**, a **COMPUTER SCIENCE** Student 👨🏻‍💻 from India. I'm on a perpetual journey of learning and creating.
  
  💻 I'm currently trying to build my skill in **CSS** , **C++** , **HTML**  and **PYTHON**
- 
+  
 ## 🐱 Frameworks, Languages and Libraries:
 
 <p align="center">
@@ -26,7 +26,10 @@
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="110" height="75"/> 
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="85" height="70"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
-      
+
+ ### <summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akshitguptaa&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   
 </p>
 
@@ -35,3 +38,4 @@
   style="vertical-align:top; 
   margin:4px">
 </a>&nbsp;&nbsp;&nbsp; -->
+
