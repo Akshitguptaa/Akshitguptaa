@@ -1,15 +1,9 @@
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Akhsitguptaa&label=PROFILE+VIEWS&color=brightgreen&style=flat" alt="akshitguptaa" /> </p>
 <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="35px"> Hi.. I am AKSHIT GUPTA </h1>
 
 <h3 align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="35px"> <span>CS STUDENT from India</span>
-</p>
-<H5>
-  MY SOCIAL MEDIA HANDLES-->
-</H5>
-
-<p align="CORNER">
-  <a href="https://twitter.com/Akshit82813613" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/akshit-gupta-845584222/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 👨🏻‍💻 About Me:
@@ -27,11 +21,21 @@
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="85" height="70"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
 
+## 📫 Contact
+
+ For a quick response, DM me on [Instagram](https://www.instagram.com/akshitg_05/) or [LinkedIn](https://www.linkedin.com/in/akshit-gupta-845584222/). 
+ 
+<H5>
+  MY OTHER SOCIAL MEDIA HANDLES-->
+</H5>
+<p align="CORNER">
+  <a href="https://twitter.com/Akshit82813613" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akshit-gupta-845584222/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
  ### <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akshitguptaa&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-  
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akshitguptaa&show_icons=true&theme=gotham" alt="abhisheknaiidu" /></p>
 
 <!-- ###
   <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" 
