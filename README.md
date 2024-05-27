@@ -1,48 +1,61 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Akhsitguptaa&label=PROFILE+VIEWS&color=brightgreen&style=flat" alt="akshitguptaa" /> </p>
-
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="35px"> Hi.. I am AKSHIT GUPTA </h1>
-
-<h3 align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="35px"> <span>CS STUDENT from India</span>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Akhsitguptaa&label=PROFILE+VIEWS&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
+
+<h1 align="left" ">
+   Howdy!!<img src="https://github.com/Akshitguptaa/Akshitguptaa/blob/main/Hi.gif" width="29" height="35" alt="Hi"> I'm Akshit Gupta
+</h1>
+<h3 align="center">
+  <img src="https://github.com/Akshitguptaa/Akshitguptaa/blob/main/Developer.gif" width="45" height="35" alt="Developer"> CS Student from India
+</h3>
 
 ## 👨🏻‍💻 About Me:
 
- 🏦 Hi, I'm **AKSHIT GUPTA**, a **COMPUTER SCIENCE** Undergrad 👨🏻‍💻 from India. I'm on a perpetual journey of learning and creating.
- 
- 💻 I'm currently trying to build my skill in **CSS** , **C++** , **JS**  and **PYTHON**
+- 🏦 Hi, I'm **Akshit Gupta**, a second-year **Computer Science** undergraduate from India.
+- 💻 Currently building my skills in **ReactJS**, **DSA**, and **Machine Learning**.
+- 🫠 I’m looking to collaborate on Web Development Projects.
+- 😎 I like learning new technologies and skills.
+
+<details>
+<summary>⚙️ <b> Things I use to get stuff done</b></summary>
+  	<ul>
+  	   <li><b>OS:</b> Windows 11 and Kali Linux </li>
+  	   <li><b>Browser: </b> Chrome, Brave and Tor</li>
+	     <li><b>Code Editor:</b> VSCode </li>
+	     <li><b>For Updates:</b> Linkedin </li>
+	     <li><b>chatting:</b> Instagram </li>
+	    <br />
+	</ul>
+</details>
+
+### 🛠️ Frameworks, Languages, and Libraries:
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="55"/>
+</p>
+
+---
+
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' alt="GitHub Stats"> My GitHub Stats:
+![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitguptaa&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitguptaa&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshitguptaa&theme=dark)](https://git.io/streak-stats)
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/akshitg_05/) or [LinkedIn](https://www.linkedin.com/in/akshit-gupta-845584222/). 
- 
-<H5>
-  MY OTHER SOCIAL MEDIA HANDLES-->
-</H5>
+For a quick response, DM me on [Instagram](https://www.instagram.com/akshitg_05/) or [LinkedIn](https://www.linkedin.com/in/akshit-gupta-845584222/).
 
-<p align="CORNER">
-  <a href="https://twitter.com/Akshit82813613" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/akshit-gupta-845584222/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a hred="" target="_blank"><img height="30" src="![image](https://github.com/Akshitguptaa/Akshitguptaa/assets/125907899/7dc1d9c9-c056-4e63-a43d-608dfa181c6a)"></a>
+### My Other Social Media Handles:
+
+<p align="left">
+  <a href="https://twitter.com/Akshit82813613" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/akshit-gupta-845584222/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/akshitg_05/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram"></a>
+  <a href="mailto:akshitg_05@gmail.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail"></a>
 </p>
-
-## 🐱 Frameworks, Languages and Libraries:
-
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.svg" alt="cpp" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="110" height="75"/> 
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="85" height="70"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
-</p>
-
-### <summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshitguptaa&theme=github_dark" alt="akshitguptaa" /></p>
-
-<!-- ###
-  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" 
-  style="vertical-align:top; 
-  margin:4px">
-</a>&nbsp;&nbsp;&nbsp; -->
-
