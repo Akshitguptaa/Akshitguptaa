@@ -2,6 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=Akhsitguptaa&label=PROFILE+VIEWS&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
+<img align="right" alt="coding" width="300" src="https://github.com/Akshitguptaa/Akshitguptaa/blob/main/octocat-1716823406736.png">
+
 <h1 align="left" ">
    Howdy!!<img src="https://github.com/Akshitguptaa/Akshitguptaa/blob/main/Hi.gif" width="29" height="35" alt="Hi"> I'm Akshit Gupta
 </h1>
