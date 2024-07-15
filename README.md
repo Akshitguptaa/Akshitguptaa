@@ -42,6 +42,8 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux" width="55" height="55"/>
+  <img src="https://upload.vectorlogo.zone/logos/pocoo_flask/images/43cac197-e0f7-4a21-aeb0-99ba4b49ce3e.svg" alt="redux" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="redux" width="55" height="55"/>
 </p>
 
 ---
