@@ -73,7 +73,7 @@ For a quick response, DM me on [Instagram](https://www.instagram.com/akshitg_05/
   <a href="mailto:akshitg_05@gmail.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail"></a>
 </p>
 
-
+<!--
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
@@ -96,5 +96,5 @@ For a quick response, DM me on [Instagram](https://www.instagram.com/akshitg_05/
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
-
+-->
 <br><br>     
