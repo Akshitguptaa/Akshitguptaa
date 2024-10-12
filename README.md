@@ -4,18 +4,15 @@
 
 <img align="right" alt="coding" width="300" src="https://github.com/Akshitguptaa/Akshitguptaa/blob/main/octocat-1716823406736.png">
 
-<h1 align="left" ">
-   Howdy!!<img src="https://github.com/Akshitguptaa/Akshitguptaa/blob/main/Hi.gif" width="29" height="35" alt="Hi"> I'm Akshit Gupta
+<h1 align="left">
+   Howdy!!<img src="https://github.com/Akshitguptaa/Akshitguptaa/blob/main/Hi.gif" width="29" height="35" alt="Hi"> 
 </h1>
-<h3 align="center">
-  <img src="https://github.com/Akshitguptaa/Akshitguptaa/blob/main/Developer.gif" width="45" height="35" alt="Developer"> CS Student from India
-</h3>
 
-## 👨🏻‍💻 About Me:
+👨🏻‍💻 About Me:
 
 - 🏦 Hi, I'm **Akshit Gupta**, a second-year **Computer Science** undergraduate from India.
 - 💻 Currently building my skills in **DSA**, and **Machine Learning**.
-- 🫠 I’m looking to collaborate on Web Development Projects.
+- 🫠 I’m looking to collaborate on literally anaything.
 - 😎 Like learning new technologies and skills.
 
 <details>
