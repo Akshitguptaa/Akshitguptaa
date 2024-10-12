@@ -12,7 +12,7 @@
 
 - 🏦 Hi, I'm **Akshit Gupta**, a second-year **Computer Science** undergraduate from India.
 - 💻 Currently building my skills in **DSA**, and **Machine Learning**.
-- 🫠 I’m looking to collaborate on literally anaything.
+- 🫠 I’m open to collaborating on any projects or ideas.
 - 😎 Like learning new technologies and skills.
 
 <details>
